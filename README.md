@@ -15,7 +15,3 @@ Nesse programa a pessoa vai digitar uma data nascimento e selecionar um sexo, co
 - CSS3
 - JavaScript
 - Git e Github
-
-## 📲 Contato
-
-Email: ramon_barreto_medrado@hotmail.com
